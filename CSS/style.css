@@ -20,6 +20,8 @@ h2 {
 .about_us {
     margin: auto;
 }
-#welcome_message {
 
+footer {
+    text-align: center;
+    padding-bottom: 1em;
 }
