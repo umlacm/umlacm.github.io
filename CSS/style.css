@@ -12,7 +12,9 @@
 .jumbotron {  
     width: 100%;
 }
-
+.EventHeading {
+    color: #3aaba4;
+}
 h2 {
     margin-left: auto;
     margin-right: auto;
