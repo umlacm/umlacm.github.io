@@ -1,13 +1,16 @@
-#uml_acm_logo {
-
-}
 #nav-option {
     margin-left: 75%;
 }
 .nav-bar {
     background-color: unset;
     background-color: blue;
+}
 
+#edges {
+    display: inline-flex;
+    padding: 50px;
+    width: 10%;
+    background-color: red;
 }
 .jumbotron {  
     width: 100%;
@@ -22,7 +25,10 @@ h2 {
 .about_us {
     margin: auto;
 }
-
+#description {
+    display: inline-flex;
+    width: 65%;
+}
 footer {
     text-align: center;
     padding-bottom: 1em;
