@@ -12,28 +12,33 @@
     width: 10%;
     background-color: red;
 }
-.jumbotron {  
+
+body > .jumbotron {  
     max-height: 10%;
     width: 100%;
+    margin-bottom: 0em;
+    padding: 2em 2em;
 }
+
 .EventHeading {
-    text-transform: uppercase;
-  
+    text-transform: uppercase; 
 }
 
 h3 {
-    
     margin-left: auto;
     margin-right: auto;
 }
+
 .about_us {
     margin: auto;
 }
+
 #description {
     margin: auto;
     /* display: inline-flex; */
     width: 65%;
 }
+
 footer {
     text-align: center;
     padding-bottom: 1em;
