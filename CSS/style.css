@@ -29,6 +29,14 @@ h3 {
     margin-right: auto;
 }
 
+.website_comp {
+    margin: auto;
+}
+
+.meeting_slides{
+    margin: auto;
+}
+
 .about_us {
     margin: auto;
 }
@@ -42,4 +50,8 @@ h3 {
 footer {
     text-align: center;
     padding-bottom: 1em;
+}
+
+.slides-archive-links > li > a {
+    color: #000;
 }
